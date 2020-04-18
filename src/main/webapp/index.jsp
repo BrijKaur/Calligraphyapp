@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-  <h3>Successfully Deployed on Tomcat using Jenkins - by Anand!!!!</h3>
+<h2>Calligraphy app</h2>
+  <h3>Calligraphy is fun</h3>
 </body>
 </html>
